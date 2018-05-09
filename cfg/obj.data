@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/wudaozhong/darknet/work/train.txt
+valid  = /home/wudaozhong/darknet/work/test.txt
+names = /home/wudaozhong/darknet/work/cfg/obj.names
+backup = /home/wudaozhong/output/
